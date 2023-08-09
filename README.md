@@ -1,3 +1,5 @@
+<b> Note: This repository has been made private in compliance with the Object Oriented Design class rules. For access to the code, please send an email to josyula.r@northeastern.edu. </b>
+
 README
 Created by Rida Jawed and Rohit Josyula.
 
